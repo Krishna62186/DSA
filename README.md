@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Krishna62186/DSA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Krishna62186/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Krishna62186/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0303-range-sum-query-immutable](https://github.com/Krishna62186/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Krishna62186/DSA/tree/master/0001-two-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Krishna62186/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna62186/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
