@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Krishna62186/DSA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Krishna62186/DSA/tree/master/0875-koko-eating-bananas) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna62186/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Krishna62186/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krishna62186/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Krishna62186/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Krishna62186/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Krishna62186/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Krishna62186/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Krishna62186/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Krishna62186/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Krishna62186/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Krishna62186/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
