@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Krishna62186/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Krishna62186/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna62186/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Krishna62186/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Krishna62186/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Krishna62186/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna62186/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Krishna62186/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Krishna62186/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Krishna62186/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Krishna62186/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Krishna62186/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Krishna62186/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Krishna62186/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishna62186/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Krishna62186/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Krishna62186/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Krishna62186/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Counting
 |  |
