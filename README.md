@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Krishna62186/DSA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Krishna62186/DSA/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Krishna62186/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Krishna62186/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Krishna62186/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna62186/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Krishna62186/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Krishna62186/DSA/tree/master/0055-jump-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Krishna62186/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Krishna62186/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Krishna62186/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Krishna62186/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Krishna62186/DSA/tree/master/0860-lemonade-change) |
