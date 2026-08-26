@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishna62186/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Krishna62186/DSA/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Krishna62186/DSA/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Krishna62186/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Krishna62186/DSA/tree/master/0055-jump-game) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Krishna62186/DSA/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/Krishna62186/DSA/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna62186/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna62186/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Krishna62186/DSA/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Krishna62186/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Krishna62186/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna62186/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
