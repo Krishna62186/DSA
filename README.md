@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Krishna62186/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Krishna62186/DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Krishna62186/DSA/tree/master/0475-heaters) |
+| [0503-next-greater-element-ii](https://github.com/Krishna62186/DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Krishna62186/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Krishna62186/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna62186/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Krishna62186/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krishna62186/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Krishna62186/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/Krishna62186/DSA/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krishna62186/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krishna62186/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -389,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishna62186/DSA/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Krishna62186/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
