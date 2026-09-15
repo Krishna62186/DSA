@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Krishna62186/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Krishna62186/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Krishna62186/DSA/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Krishna62186/DSA/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Krishna62186/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Krishna62186/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Krishna62186/DSA/tree/master/0881-boats-to-save-people) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Krishna62186/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Krishna62186/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Krishna62186/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Krishna62186/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krishna62186/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krishna62186/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -395,4 +397,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Krishna62186/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Krishna62186/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
