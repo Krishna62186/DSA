@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Krishna62186/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Krishna62186/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna62186/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Krishna62186/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna62186/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna62186/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Krishna62186/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna62186/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Krishna62186/DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Krishna62186/DSA/tree/master/0475-heaters) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Krishna62186/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna62186/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna62186/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Krishna62186/DSA/tree/master/0881-boats-to-save-people) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Krishna62186/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Krishna62186/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Krishna62186/DSA/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Krishna62186/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Krishna62186/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krishna62186/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krishna62186/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna62186/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Krishna62186/DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Krishna62186/DSA/tree/master/0475-heaters) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Krishna62186/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0876-middle-of-the-linked-list](https://github.com/Krishna62186/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Krishna62186/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna62186/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Krishna62186/DSA/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Krishna62186/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Krishna62186/DSA/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Krishna62186/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0860-lemonade-change](https://github.com/Krishna62186/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Krishna62186/DSA/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/Krishna62186/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -410,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Krishna62186/DSA/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Krishna62186/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Krishna62186/DSA/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
