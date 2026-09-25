@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Krishna62186/DSA/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Krishna62186/DSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Krishna62186/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna62186/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Krishna62186/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Krishna62186/DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Krishna62186/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna62186/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Krishna62186/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna62186/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna62186/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Krishna62186/DSA/tree/master/0238-product-of-array-except-self) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Krishna62186/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Krishna62186/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna62186/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Krishna62186/DSA/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Krishna62186/DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Krishna62186/DSA/tree/master/0475-heaters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Krishna62186/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
