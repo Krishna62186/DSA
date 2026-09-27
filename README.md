@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Krishna62186/DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Krishna62186/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Krishna62186/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krishna62186/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Krishna62186/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Krishna62186/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Krishna62186/DSA/tree/master/2540-minimum-common-value) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Krishna62186/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Krishna62186/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Krishna62186/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krishna62186/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Krishna62186/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krishna62186/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Krishna62186/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Krishna62186/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Krishna62186/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Krishna62186/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krishna62186/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Krishna62186/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Krishna62186/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna62186/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/Krishna62186/DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna62186/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krishna62186/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Design
 |  |
 | ------- |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Krishna62186/DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krishna62186/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Krishna62186/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krishna62186/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Krishna62186/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/Krishna62186/DSA/tree/master/2540-minimum-common-value) |
 ## Greedy
@@ -387,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Krishna62186/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Krishna62186/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Krishna62186/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krishna62186/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Krishna62186/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
 |  |
