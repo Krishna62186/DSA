@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Krishna62186/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Krishna62186/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Krishna62186/DSA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Krishna62186/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krishna62186/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishna62186/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Krishna62186/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishna62186/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Krishna62186/DSA/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/Krishna62186/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krishna62186/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishna62186/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Krishna62186/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Krishna62186/DSA/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna62186/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Krishna62186/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
