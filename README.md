@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Krishna62186/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna62186/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna62186/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Krishna62186/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Krishna62186/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Krishna62186/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Krishna62186/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Krishna62186/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krishna62186/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Krishna62186/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Krishna62186/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Krishna62186/DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Krishna62186/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna62186/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Krishna62186/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
