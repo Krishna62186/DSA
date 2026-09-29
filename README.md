@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Krishna62186/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Krishna62186/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Krishna62186/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Krishna62186/DSA/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/Krishna62186/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna62186/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Krishna62186/DSA/tree/master/0189-rotate-array) |
@@ -494,7 +495,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Krishna62186/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Krishna62186/DSA/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Krishna62186/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Krishna62186/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Krishna62186/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
