@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Krishna62186/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krishna62186/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Krishna62186/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Krishna62186/DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Krishna62186/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Krishna62186/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishna62186/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Krishna62186/DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Binary Search
 |  |
 | ------- |
