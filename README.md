@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Krishna62186/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna62186/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna62186/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishna62186/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1189-maximum-number-of-balloons](https://github.com/Krishna62186/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Krishna62186/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Krishna62186/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Krishna62186/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krishna62186/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishna62186/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Krishna62186/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Krishna62186/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krishna62186/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishna62186/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Krishna62186/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Krishna62186/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krishna62186/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishna62186/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -362,11 +366,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Krishna62186/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Krishna62186/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krishna62186/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishna62186/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Krishna62186/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Krishna62186/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishna62186/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -385,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Krishna62186/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Krishna62186/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Krishna62186/DSA/tree/master/0611-valid-triangle-number) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishna62186/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0821-shortest-distance-to-a-character](https://github.com/Krishna62186/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/Krishna62186/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Krishna62186/DSA/tree/master/0881-boats-to-save-people) |
