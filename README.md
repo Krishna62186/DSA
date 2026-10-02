@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Krishna62186/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Krishna62186/DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Krishna62186/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Krishna62186/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Krishna62186/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krishna62186/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Krishna62186/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Krishna62186/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Krishna62186/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Krishna62186/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Krishna62186/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Krishna62186/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Krishna62186/DSA/tree/master/2540-minimum-common-value) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna62186/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Krishna62186/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Krishna62186/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Krishna62186/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
