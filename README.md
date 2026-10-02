@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Krishna62186/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krishna62186/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Krishna62186/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3921-score-validator](https://github.com/Krishna62186/DSA/tree/master/3921-score-validator) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Krishna62186/DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Prefix Sum
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishna62186/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Krishna62186/DSA/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishna62186/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3921-score-validator](https://github.com/Krishna62186/DSA/tree/master/3921-score-validator) |
 ## Counting
 |  |
 | ------- |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishna62186/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3921-score-validator](https://github.com/Krishna62186/DSA/tree/master/3921-score-validator) |
 ## Bit Manipulation
 |  |
 | ------- |
