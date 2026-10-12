@@ -557,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Krishna62186/DSA/tree/master/0509-fibonacci-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Krishna62186/DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
