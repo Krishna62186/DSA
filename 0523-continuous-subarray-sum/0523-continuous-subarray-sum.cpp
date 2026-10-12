@@ -1,20 +1,21 @@
 class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
-      unordered_map<int , int> mp;
-      int prefixsum =0;
-      for(int i =0; i<nums.size() ; i++){
-        prefixsum += nums[i];
-        prefixsum %= k;
-        if(prefixsum == 0 && i)return true;
+        int prefixsum = 0;
+        unordered_map<int , int>mp;
+        mp[0] = -1;
+        for(int i =0; i<nums.size(); i++){
+            prefixsum += nums[i];
+            int rem =prefixsum % k;
+            if(mp.find(rem) != mp.end()){
+                if(i - mp[rem] >= 2){
+                    return true;
+                }
+            }else{
+                mp[rem] = i;
+            }
 
-        if(mp.find(prefixsum) != mp.end())  
-		{
-			if(i - mp[prefixsum] > 1) return true; 
-		}
-		else mp[prefixsum] = i;
-      }
-      return false;
-	}
-
+        }
+        return false;
+    }
 };
