@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Krishna62186/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Krishna62186/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna62186/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Krishna62186/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Krishna62186/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna62186/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna62186/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishna62186/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Krishna62186/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Krishna62186/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Krishna62186/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Krishna62186/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Krishna62186/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Krishna62186/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Krishna62186/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Krishna62186/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Krishna62186/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna62186/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Krishna62186/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Krishna62186/DSA/tree/master/0268-missing-number) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Krishna62186/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Krishna62186/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna62186/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna62186/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Krishna62186/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Krishna62186/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna62186/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Krishna62186/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Quickselect
@@ -561,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Krishna62186/DSA/tree/master/0523-continuous-subarray-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Krishna62186/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
