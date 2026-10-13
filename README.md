@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/Krishna62186/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Krishna62186/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3921-score-validator](https://github.com/Krishna62186/DSA/tree/master/3921-score-validator) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Krishna62186/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Krishna62186/DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Prefix Sum
 |  |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krishna62186/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Krishna62186/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/Krishna62186/DSA/tree/master/2540-minimum-common-value) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Krishna62186/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Greedy
 |  |
 | ------- |
