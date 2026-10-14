@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Krishna62186/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Krishna62186/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Krishna62186/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Krishna62186/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Krishna62186/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Krishna62186/DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Krishna62186/DSA/tree/master/0475-heaters) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Krishna62186/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Krishna62186/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Krishna62186/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Krishna62186/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Krishna62186/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishna62186/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Krishna62186/DSA/tree/master/0409-longest-palindrome) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna62186/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna62186/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Krishna62186/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Krishna62186/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Krishna62186/DSA/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/Krishna62186/DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Krishna62186/DSA/tree/master/0704-binary-search) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna62186/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Krishna62186/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Krishna62186/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Krishna62186/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Krishna62186/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Krishna62186/DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Krishna62186/DSA/tree/master/0475-heaters) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna62186/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Krishna62186/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Krishna62186/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Krishna62186/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Krishna62186/DSA/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Krishna62186/DSA/tree/master/0475-heaters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Krishna62186/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
