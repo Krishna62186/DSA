@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/Krishna62186/DSA/tree/master/2582-pass-the-pillow) |
 | [3536-maximum-product-of-two-digits](https://github.com/Krishna62186/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Krishna62186/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Krishna62186/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/Krishna62186/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Krishna62186/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Krishna62186/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Krishna62186/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3921-score-validator](https://github.com/Krishna62186/DSA/tree/master/3921-score-validator) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Krishna62186/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Krishna62186/DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
