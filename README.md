@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Krishna62186/DSA/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Krishna62186/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Krishna62186/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Krishna62186/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Krishna62186/DSA/tree/master/0509-fibonacci-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Krishna62186/DSA/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Krishna62186/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krishna62186/DSA/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Krishna62186/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Krishna62186/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Krishna62186/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Krishna62186/DSA/tree/master/0078-subsets) |
