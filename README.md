@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna62186/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna62186/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Krishna62186/DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Krishna62186/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishna62186/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Krishna62186/DSA/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/Krishna62186/DSA/tree/master/0611-valid-triangle-number) |
@@ -657,4 +658,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Krishna62186/DSA/tree/master/2396-strictly-palindromic-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Krishna62186/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
