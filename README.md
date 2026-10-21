@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Krishna62186/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Krishna62186/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Krishna62186/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2942-find-words-containing-character](https://github.com/Krishna62186/DSA/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krishna62186/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krishna62186/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Krishna62186/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Krishna62186/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Krishna62186/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Krishna62186/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2942-find-words-containing-character](https://github.com/Krishna62186/DSA/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishna62186/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Krishna62186/DSA/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishna62186/DSA/tree/master/3498-reverse-degree-of-a-string) |
