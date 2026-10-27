@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Krishna62186/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Krishna62186/DSA/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Krishna62186/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Krishna62186/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/Krishna62186/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Krishna62186/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krishna62186/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Krishna62186/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Krishna62186/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Krishna62186/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Krishna62186/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Krishna62186/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Krishna62186/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/Krishna62186/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Krishna62186/DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Krishna62186/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Krishna62186/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Krishna62186/DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Krishna62186/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Krishna62186/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Krishna62186/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Krishna62186/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Krishna62186/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Krishna62186/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Krishna62186/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -634,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Krishna62186/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Krishna62186/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Krishna62186/DSA/tree/master/0268-missing-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Krishna62186/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Krishna62186/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Krishna62186/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Backtracking
