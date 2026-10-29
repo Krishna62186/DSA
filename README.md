@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Krishna62186/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Krishna62186/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/Krishna62186/DSA/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/Krishna62186/DSA/tree/master/2413-smallest-even-multiple) |
 | [2582-pass-the-pillow](https://github.com/Krishna62186/DSA/tree/master/2582-pass-the-pillow) |
 | [3536-maximum-product-of-two-digits](https://github.com/Krishna62186/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Krishna62186/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -719,4 +720,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krishna62186/DSA/tree/master/0005-longest-palindromic-substring) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Krishna62186/DSA/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
