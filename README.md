@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Krishna62186/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Krishna62186/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Krishna62186/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Krishna62186/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2239-find-closest-number-to-zero](https://github.com/Krishna62186/DSA/tree/master/2239-find-closest-number-to-zero) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krishna62186/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Krishna62186/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krishna62186/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Krishna62186/DSA/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Krishna62186/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Krishna62186/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Krishna62186/DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Krishna62186/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Krishna62186/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna62186/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Krishna62186/DSA/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Krishna62186/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
