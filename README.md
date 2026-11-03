@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Krishna62186/DSA/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/Krishna62186/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/Krishna62186/DSA/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/Krishna62186/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Krishna62186/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Krishna62186/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Krishna62186/DSA/tree/master/0881-boats-to-save-people) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Krishna62186/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/Krishna62186/DSA/tree/master/0867-transpose-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Krishna62186/DSA/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/Krishna62186/DSA/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Krishna62186/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2582-pass-the-pillow](https://github.com/Krishna62186/DSA/tree/master/2582-pass-the-pillow) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishna62186/DSA/tree/master/3498-reverse-degree-of-a-string) |
