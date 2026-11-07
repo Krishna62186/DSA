@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Krishna62186/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Krishna62186/DSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Krishna62186/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Krishna62186/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Krishna62186/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Krishna62186/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Krishna62186/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Krishna62186/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Krishna62186/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Krishna62186/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Krishna62186/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Krishna62186/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Krishna62186/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Matrix
