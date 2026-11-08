@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Krishna62186/DSA/tree/master/2413-smallest-even-multiple) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Krishna62186/DSA/tree/master/2525-categorize-box-according-to-criteria) |
 | [2582-pass-the-pillow](https://github.com/Krishna62186/DSA/tree/master/2582-pass-the-pillow) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Krishna62186/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Krishna62186/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Krishna62186/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Krishna62186/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
