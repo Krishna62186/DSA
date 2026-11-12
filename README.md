@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Krishna62186/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Krishna62186/DSA/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Krishna62186/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Krishna62186/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krishna62186/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Krishna62186/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Krishna62186/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
