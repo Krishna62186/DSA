@@ -757,4 +757,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Krishna62186/DSA/tree/master/2413-smallest-even-multiple) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Krishna62186/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
