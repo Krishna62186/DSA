@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Krishna62186/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krishna62186/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Krishna62186/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Krishna62186/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Krishna62186/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Krishna62186/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Krishna62186/DSA/tree/master/3875-construct-uniform-parity-array-i) |
