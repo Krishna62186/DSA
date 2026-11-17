@@ -768,4 +768,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Krishna62186/DSA/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Krishna62186/DSA/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Krishna62186/DSA/tree/master/1683-invalid-tweets) |
+| [1873-calculate-special-bonus](https://github.com/Krishna62186/DSA/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
