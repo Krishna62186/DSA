@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Krishna62186/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Krishna62186/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/Krishna62186/DSA/tree/master/3794-reverse-string-prefix) |
+| [3813-vowel-consonant-score](https://github.com/Krishna62186/DSA/tree/master/3813-vowel-consonant-score) |
 | [3921-score-validator](https://github.com/Krishna62186/DSA/tree/master/3921-score-validator) |
 ## Counting
 |  |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Krishna62186/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2582-pass-the-pillow](https://github.com/Krishna62186/DSA/tree/master/2582-pass-the-pillow) |
 | [3498-reverse-degree-of-a-string](https://github.com/Krishna62186/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/Krishna62186/DSA/tree/master/3813-vowel-consonant-score) |
 | [3921-score-validator](https://github.com/Krishna62186/DSA/tree/master/3921-score-validator) |
 ## Bit Manipulation
 |  |
