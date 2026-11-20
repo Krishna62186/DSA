@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Krishna62186/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Krishna62186/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Krishna62186/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3945-digit-frequency-score](https://github.com/Krishna62186/DSA/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Krishna62186/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Krishna62186/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Krishna62186/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/Krishna62186/DSA/tree/master/3945-digit-frequency-score) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Krishna62186/DSA/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Binary Search
 |  |
